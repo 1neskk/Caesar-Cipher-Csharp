@@ -1,7 +1,6 @@
 ﻿using System;
 using System.IO;
 
-//Testing
 class Program
 {
     static string Encrypt(string text, int s)
