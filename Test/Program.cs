@@ -39,7 +39,7 @@ class Program
 
     static void Main(string[] args)
     {
-        string text = "ATTACKATONCE";
+        string text = "SECRET";
         int s = 5;
         Console.WriteLine("Text : " + text);
         Console.WriteLine("Shift : " + s);
